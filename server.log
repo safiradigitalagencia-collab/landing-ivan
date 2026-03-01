@@ -1,0 +1,15 @@
+::1 - - [01/Mar/2026 11:41:31] "GET / HTTP/1.1" 200 -
+::1 - - [01/Mar/2026 11:41:32] "GET /site.webmanifest HTTP/1.1" 200 -
+::1 - - [01/Mar/2026 11:41:32] "GET /style.css HTTP/1.1" 200 -
+::1 - - [01/Mar/2026 11:41:32] "GET /main.js HTTP/1.1" 200 -
+::1 - - [01/Mar/2026 11:41:32] "GET /assets/logo.png HTTP/1.1" 200 -
+::1 - - [01/Mar/2026 11:41:32] code 404, message File not found
+::1 - - [01/Mar/2026 11:41:32] "GET /assets/hero_fitness_bg.png HTTP/1.1" 404 -
+::1 - - [01/Mar/2026 11:41:32] "GET /assets/resultado1.jpg HTTP/1.1" 200 -
+::1 - - [01/Mar/2026 11:41:32] "GET /assets/resultado2.jpg HTTP/1.1" 200 -
+::1 - - [01/Mar/2026 11:41:32] "GET /assets/method_mockup.png HTTP/1.1" 200 -
+::1 - - [01/Mar/2026 11:41:32] "GET /assets/resultado3.jpg HTTP/1.1" 200 -
+::1 - - [01/Mar/2026 11:41:32] "GET /assets/resultado4.jpg HTTP/1.1" 200 -
+::1 - - [01/Mar/2026 11:41:32] "GET /assets/resultado5.jpg HTTP/1.1" 200 -
+::1 - - [01/Mar/2026 11:41:32] "GET /assets/resultado6.jpg HTTP/1.1" 200 -
+::1 - - [01/Mar/2026 11:41:32] "GET /assets/training_scene.jpg HTTP/1.1" 200 -
